@@ -24,15 +24,7 @@ The World Wide Web (WWW, or simply "web") is a distributed, world-wide collectio
 
 ![http_requests](images/http_requests.png)
 
-Examples:
-
-- GET http://www.example.com/customers/12345
-- GET http://www.example.com/customers/12345/orders
-- GET http://www.example.com/buckets/sample
-
 https://www.restapitutorial.com/lessons/httpmethods.html
-
-[Let's watch a video!](https://www.youtube.com/watch?v=kBXQZMmiA4s)
 
 <br>
 
